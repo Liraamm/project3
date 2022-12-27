@@ -9,3 +9,5 @@ python3 -m venv venv
 2. Скачиваем библиотеки
 pip3 install -r req.txt
 
+3. Запускаем сервер
+python manage.py runserver
